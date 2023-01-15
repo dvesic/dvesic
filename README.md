@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvesic, Dejan Vesić
+👋 Hi, I’m @dvesic, Dejan Vesić
 
 Based in Belgrade, Serbia, in IT for as long as I remember (let's say that my first computer was [Commodore 128](https://en.wikipedia.org/wiki/Commodore_128) :-) )
 
